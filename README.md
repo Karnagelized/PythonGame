@@ -53,7 +53,7 @@ Bera означает звезду ярко-голубого цвета, явл�
 достичь своей главной цели – спасти планету, и открыть новые пути для 
 развития человечества. Ваше приключение только начинается.
 
-<img width="70%" src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/result.png">
+<img width="100%" src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/result.png">
 
 ### Артефакты
 
@@ -61,16 +61,16 @@ Bera означает звезду ярко-голубого цвета, явл�
 <img src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/artefact_3.png">
 
 #### Амулет великого дождя
-<img width="70%" src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/artefact_1.png">
+<img src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/artefact_1.png">
 
 #### Златые одеяния стражника
-<img width="70%" src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/artefact_4.png">
+<img src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/artefact_4.png">
 
 #### Чаша древних тайн
-<img width="70%" src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/artefact_5.png">
+<img src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/artefact_5.png">
 
 #### Плита забытых легенд
-<img width="70%" src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/artefact_2.png">
+<img src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/artefact_2.png">
 
 
 ### 📋 Основные библиотеки
