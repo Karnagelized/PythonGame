@@ -58,7 +58,7 @@ Bera означает звезду ярко-голубого цвета, явл�
 ### Артефакты
 
 #### Шепот леса
-<img width="70%" src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/artefact_3.png">
+<img src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/artefact_3.png">
 
 #### Амулет великого дождя
 <img width="70%" src="https://github.com/Karnagelized/assets/blob/main/projects/python-game/artefact_1.png">
