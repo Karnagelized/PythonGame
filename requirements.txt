@@ -1,0 +1,5 @@
+# Karnagelized requirements
+# Usage: pip install -r requirements.txt
+
+Your package's
+pygame >= 2.5.0
